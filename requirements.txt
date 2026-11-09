@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+openpyxl
+ddgs
+# optional, only for --js:
+# playwright

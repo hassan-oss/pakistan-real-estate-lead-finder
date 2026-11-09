@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# never commit collected contact data
+leads*.xlsx
+leads*.csv
+test*.xlsx
